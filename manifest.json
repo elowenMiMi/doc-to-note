@@ -1,10 +1,10 @@
 {
   "id": "doc2note",
-  "name": "文献转笔记",
-  "version": "1.0.1",
+  "name": "Doc to Note",
+  "version": "1.0.2",
   "minAppVersion": "1.5.0",
   "description": "把本地的 PDF / Word / PPT / 图片拖进来，一键抽取正文生成 Obsidian 笔记，原文件一起入库，笔记落到收件箱等你分类。",
   "author": "elowen（咪咪）",
   "isDesktopOnly": true,
-  "authorUrl": "https://github.com/elowen"
+  "authorUrl": "https://github.com/elowenMiMi"
 }
