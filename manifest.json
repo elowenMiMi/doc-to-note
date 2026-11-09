@@ -1,9 +1,9 @@
 {
   "id": "doc-to-note",
   "name": "Doc to Note",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "minAppVersion": "1.5.0",
-  "description": "Turn PDF, Word, PowerPoint, and image files into Obsidian notes. Extracts the text, keeps the original file, and drops the new note into your inbox folder.",
+  "description": "Turn PDF, Word, PowerPoint, and image files into Markdown notes. Extracts the text, keeps the original file, and drops the new note into your inbox folder.",
   "author": "elowen（咪咪）",
   "isDesktopOnly": true,
   "authorUrl": "https://github.com/elowenMiMi"
